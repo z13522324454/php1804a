@@ -1,0 +1,5 @@
+查看所有标签：git tag
+创建标签：git tag 名字
+制定提交信息：git tag -a name -m "内容"
+删除标签：git tag -d name
+标签发布：git push origin name
